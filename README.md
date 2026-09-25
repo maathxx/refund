@@ -19,3 +19,5 @@ https://maathxx.github.io/refund/
 ## 👨🏽‍💻 Autor
 
 Desenvolvido por **[Matheus Oliveira](https://github.com/maathxx)**.
+
+![Preview do projeto](./assets/preview.png)
